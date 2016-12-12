@@ -8,7 +8,7 @@
 
 2. 将两文件放入 根目录/maven2/.index/中
 
-3. 在根目录启动 http 服务器: python -m SimpleHTTPServer
+3. 在根目录启动 http 服务器: sudo python https-server.py
 
 4. 修改hosts 127.0.0.1 repo1.maven.org
 
